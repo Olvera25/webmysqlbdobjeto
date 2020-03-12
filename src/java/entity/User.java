@@ -9,6 +9,8 @@ import java.util.Date;
  */
 public class User  implements java.io.Serializable {
 
+    
+    //subiendo cambios al proyecto
 
      private UserId id;
      private String selectPriv;
